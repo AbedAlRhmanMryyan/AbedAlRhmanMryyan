@@ -1,11 +1,11 @@
 <!-- ================= HEADER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF7A18,50:FF8C42,100:FFB067&text=I%20am%20AbedAlRhman%20Mryyan&fontSize=45&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:464449,50:425B9A,100:464449&text=I%20am%20AbedAlRhman%20Mryyan&fontSize=45&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
 
 <!-- ================= PROFILE VIEWS ================= -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbedAlRhmanMryyan&label=Profile%20Views&color=FF7A18&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=AbedAlRhmanMryyan&label=Profile%20Views&color=425B9A&style=flat-square" />
 </p>
 
 <!-- ================= SOCIALS ================= -->
@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF7A18&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+Developer;Web+Developer;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=425B9A&center=true&vCenter=true&repeat=true&width=900&lines=Full+Stack+Developer;Web+Developer;"/>
 
 </p>
 
